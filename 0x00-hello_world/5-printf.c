@@ -1,12 +1,8 @@
 #include <stdio.h>
-
 /**
  * main - Entry point
  *
- * Description: prints "with proper grammar, but the outcome is a piece of
- * art,"
- *
- * Return: Always 0 (Success)
+ * Return: 0 number
  */
 int main(void)
 {
