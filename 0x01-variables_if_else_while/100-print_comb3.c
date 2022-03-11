@@ -1,4 +1,3 @@
-100-print
 #include <stdio.h>
 /**
  * main - main function
